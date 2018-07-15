@@ -1,0 +1,11 @@
+{
+  "name": "@oresoftware/cholo1",
+  "version": "4.1.2-0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "rolo2": "1.1.0-beta.0",
+    "yolo3": "1.1.0-beta.0",
+    "ramda": "latest"
+  }
+}
